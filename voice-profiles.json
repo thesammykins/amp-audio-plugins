@@ -1,0 +1,14 @@
+{
+  "product-proof": {
+    "mode": "proof",
+    "voice": "sage",
+    "instructions": "Speak directly and plainly. Pause briefly between checks. Emphasize actions, observed results, and limitations without a sales tone.",
+    "sample_script": "The form rejects an empty title. The existing entry is unchanged."
+  },
+  "product-marketing": {
+    "mode": "marketing",
+    "voice": "sage",
+    "instructions": "Sound engaged and distinctive. Use a brisk, clear pace. Emphasize the demonstrated benefit without hype.",
+    "sample_script": "See the next step without searching through every detail."
+  }
+}
